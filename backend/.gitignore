@@ -1,0 +1,12 @@
+[Bb]in/
+[Oo]bj/
+*.swp
+*.user
+*.userosscache
+*.sln.doccache
+*.suo
+*.userprefs
+.vs/
+.idea/
+.vscode/
+appsettings.Development.json

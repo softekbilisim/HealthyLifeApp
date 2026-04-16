@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="HealthyLifeApp.Api/HealthyLifeApp.Api.csproj" />
+  <Project Path="HealthyLifeApp.Modules.Identity/HealthyLifeApp.Modules.Identity.csproj" />
+  <Project Path="HealthyLifeApp.Modules.Nutrition/HealthyLifeApp.Modules.Nutrition.csproj" />
+  <Project Path="HealthyLifeApp.Modules.Smoking/HealthyLifeApp.Modules.Smoking.csproj" />
+  <Project Path="HealthyLifeApp.Modules.Sugar/HealthyLifeApp.Modules.Sugar.csproj" />
+  <Project Path="HealthyLifeApp.Shared/HealthyLifeApp.Shared.csproj" />
+</Solution>
