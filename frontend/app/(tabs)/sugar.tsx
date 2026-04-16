@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, FlatList } from 'react-native';
 import { useTranslation } from 'react-i18next';
-import { Colors } from '../constants/Colors';
+import { Colors } from '../../constants/Colors';
 
 const MOCK_RECIPES = [
   { id: '1', title: 'Hurmalı Toplar', desc: 'Şeker krizleri için birebir sağlıklı atıştırmalık.' },

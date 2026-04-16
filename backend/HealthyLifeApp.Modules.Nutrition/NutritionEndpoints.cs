@@ -27,6 +27,7 @@ public static class NutritionEndpoints
 
             profile.BloodType = request.BloodType;
             profile.Weight = request.Weight;
+            profile.Height = request.Height;
             profile.Age = request.Age;
             profile.Gender = request.Gender;
 

@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, ScrollView, TouchableOpacity } from 'react-native';
 import { useTranslation } from 'react-i18next';
-import api from '../services/api';
-import { Colors } from '../constants/Colors';
-import { registerForPushNotificationsAsync, scheduleMotivationNotification } from '../services/notifications';
+import api from '../../services/api';
+import { Colors } from '../../constants/Colors';
+import { registerForPushNotificationsAsync, scheduleMotivationNotification } from '../../services/notifications';
 
 export default function DashboardScreen() {
   const { t } = useTranslation();
