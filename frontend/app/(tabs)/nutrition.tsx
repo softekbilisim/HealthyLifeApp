@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, TextInput, TouchableOpacity, ScrollView } from 'react-native';
 import { useTranslation } from 'react-i18next';
-import api from '../services/api';
-import { Colors } from '../constants/Colors';
+import api from '../../services/api';
+import { Colors } from '../../constants/Colors';
 
 export default function NutritionScreen() {
   const { t } = useTranslation();
